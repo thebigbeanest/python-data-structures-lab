@@ -1,4 +1,6 @@
-# SEIR 0911 Python Challenges 
+### SEBR 0116 
+
+## Python Challenges 
 
 Before we get into Django and Database Management, lets continue practicing with this wonderful language known as Python
 
